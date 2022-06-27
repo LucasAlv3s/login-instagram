@@ -1,4 +1,4 @@
 # Página de Login do Instagram.
 <p>
-  Nesse projeto você terá o desafio de reconstruir a página de login do Instagram. Para isso, é recomendado o uso de CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade. 
+  Nesse projeto o desafio se estabelece em reconstruir a página de login do Instagram. Para isso, foi utilizado o CSS com Flexbox,  que é uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade. 
 </p>
