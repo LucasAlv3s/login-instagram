@@ -1,6 +1,4 @@
-# Página de Login do Instgram
-
-### Quais foram as tecnologias usadas?
+# Página de Login do Instagram.
 <p>
-  As tecnologias usadas para o desenvolvimento da página de login e instagram foram com base no Santander Bootcamp Fullstack Developer 2022, onde em que se estabelece na reconstrução usando HTML5 e CSS3. Portanto, vale ressaltar que durante o desenvolvimento da página de login do Instagram foi usado CSS3 com base ao Flexbox, ou seja, as abordagens de posicionamento de elementos tiveram a serem utilizadas de forma a tratar com a base da responsividade. 
+  Nesse projeto você terá o desafio de reconstruir a página de login do Instagram. Para isso, é recomendado o uso de CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade. 
 </p>
